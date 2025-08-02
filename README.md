@@ -1,14 +1,28 @@
-<h1 align="center">Hi 👋, I'm Vo Anh Duc</h1>
-<h3 align="center">A normal person just want to happy </h3>
+<h1 align="center">Hi 👋, I'm Vo Anh Duc </h1>
+<h3 align="center"> yes </h3>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Forever;Loves+Philosophy;Always+Learning+New+Things" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+- 👀 I’m interested in 
+
+- 🌱 I’m currently learning "THPT"
+ 
+- 📫 reach me at : **ducrevenge@gmail.com**
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact 1: **I'm 17**
+- ⚡ Fun fact 2: My fav charater is Koishi :D
+
+
+
 <img src="https://images.steamusercontent.com/ugc/2073402281567920843/F95A920E3177705A62C14A6BC096E8632690E593/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Banner">
 
-
-- 📫 reach me at : **ducrevenge@gmail.com**
-- ⚡ Fun fact **I'm 17**
-
-
-
-## 🚀 TECH & TOOLS
+## 🛠️ TECH & TOOLS
 
 <div align="center">
   
