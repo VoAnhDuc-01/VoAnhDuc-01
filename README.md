@@ -8,11 +8,11 @@
 
 
 
-## 🚀 Công Nghệ & Công Cụ
+## 🚀 TECH & TOOLS
 
 <div align="center">
   
-### 💻 Ngôn Ngữ Lập Trình
+### 💻 PROGRAMMING LANGUAGE
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -21,24 +21,24 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-### 🛢️ Cơ Sở Dữ Liệu
+### 🛢️ DATABASE
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
 </p>
 
-### 📱 Mobile Development
+### 📱 Mobile
 <p>
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
 </p>
 
-### 🎨 Công Cụ Thiết Kế
+### 🎨 DESIGN
 <p>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
   <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white" alt="Lightroom">
 </p>
 
-### 🔧 Trình Soạn Thảo & IDE
+### 🔧 CODE EDITOR & IDE
 <p>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
