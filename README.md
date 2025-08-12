@@ -4,14 +4,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Forever;Loves+Philosophy;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Life+Hacker;Loves+Philosophy;Always+Learning+New+Things" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - 👀 I’m interested in 
 
-- 🌱 I’m currently learning "THPT"
+- 🌱 I’m currently learning "THPT" 
  
 - 📫 reach me at : **ducrevenge@gmail.com**
 - 😄 Pronouns: He/Him
