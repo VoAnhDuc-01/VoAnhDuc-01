@@ -9,14 +9,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 👀 I’m interested in 
 
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/@Zx110AP?name=Zx110AP&theme=booru-jaypee&padding=7&offset=0&align=top&scale=2&pixelated=1&darkmode=0&num=2658104 " height="195" align="right"></a>
+- 👀 I’m interested in 
 - 🌱 I’m currently learning "THPT" 
- 
 - 📫 reach me at : **ducrevenge@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact 1: **I'm 17**
 - ⚡ Fun fact 2: My fav charater is Koishi :D
+
+
 
 
 
