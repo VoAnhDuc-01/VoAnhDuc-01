@@ -11,18 +11,16 @@
 
 
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/@Zx110AP?name=Zx110AP&theme=booru-jaypee&padding=7&offset=0&align=top&scale=2&pixelated=1&darkmode=0&num=2658104 " height="195" align="right"></a>
-- 👀 I’m interested in 
+- 👀 I’m interested in r34
 - 🌱 I’m currently learning "THPT" 
 - 📫 reach me at : **ducrevenge@gmail.com**
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact 1: **I'm 17**
 - ⚡ Fun fact 2: My fav charater is Koishi :D
 
 
 
-
-
 <img src="https://images.steamusercontent.com/ugc/2073402281567920843/F95A920E3177705A62C14A6BC096E8632690E593/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Banner">
+
 ## 🛠️ TECH & TOOLS
 
 <div align="center">
