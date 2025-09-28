@@ -11,7 +11,7 @@
 
 
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/@Zx110AP?name=Zx110AP&theme=booru-jaypee&padding=7&offset=0&align=top&scale=2&pixelated=1&darkmode=0&num=2658104 " height="195" align="right"></a>
-- 👀 I’m interested in r34
+- 👀 I’m interested in
 - 🌱 I’m currently learning "THPT" 
 - 📫 reach me at : **ducrevenge@gmail.com**
 - ⚡ Fun fact 1: **I'm 17**
