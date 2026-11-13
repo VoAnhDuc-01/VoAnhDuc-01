@@ -60,7 +60,7 @@
 
 ## Góc ăn xin online
 
-<img align="right" src="https://postimg.cc/KKKYXDFM" alt="Mon" width="250"/>
+<img align="right" src="https://i.ibb.co/d0St2nqc/Mon0.png" alt="Mon" width="250"/>
 
 Nếu bạn yêu quý và muốn ủng hộ một ổ bánh mì/cafe/hủ tiếu cho mình:
 
